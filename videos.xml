@@ -1,14 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <videos>
-  <video title="C++ Tutorial 1" link="https://www.youtube.com/watch?v=8jLOx1hD3_o" />
-  <video title="C++ Tutorial 2" link="https://www.youtube.com/watch?v=vLnPwxZdW4Y" />
-  <video title="C++ Tutorial 3" link="https://www.youtube.com/watch?v=ZzaPdXTrSb8" />
-  <video title="C++ Tutorial 4" link="https://www.youtube.com/watch?v=GQp1zzTwrIg" />
-  <video title="C++ Tutorial 5" link="https://www.youtube.com/watch?v=tvC1WCdV1XU" />
-  <video title="C++ Tutorial 6" link="https://www.youtube.com/watch?v=k7yCp0kjr6I" />
-  <video title="C++ Tutorial 7" link="https://www.youtube.com/watch?v=Rub-JsjMhWY" />
-  <video title="C++ Tutorial 8" link="https://www.youtube.com/watch?v=5WZl3MMT0Eg" />
-  <video title="C++ Tutorial 9" link="https://www.youtube.com/watch?v=2ybLD6_2gKM" />
-  <video title="C++ Tutorial 10" link="https://www.youtube.com/watch?v=7Dh73z3icd8" />
-
+  <video>
+    <title>C++ Tutorial 1</title>
+    <link>https://www.youtube.com/watch?v=8jLOx1hD3_o</link>
+  </video>
+  <video>
+    <title>C++ Tutorial 2</title>
+    <link>https://www.youtube.com/watch?v=vLnPwxZdW4Y</link>
+  </video>
+  <video>
+    <title>C++ Tutorial 3</title>
+    <link>https://www.youtube.com/watch?v=ZzaPdXTrSb8</link>
+  </video>
+  <video>
+    <title>C++ Tutorial 4</title>
+    <link>https://www.youtube.com/watch?v=GQp1zzTwrIg</link>
+  </video>
+  <video>
+    <title>C++ Tutorial 5</title>
+    <link>https://www.youtube.com/watch?v=tvC1WCdV1XU</link>
+  </video>
+  <video>
+    <title>C++ Tutorial 6</title>
+    <link>https://www.youtube.com/watch?v=k7yCp0kjr6I</link>
+  </video>
+  <video>
+    <title>C++ Tutorial 7</title>
+    <link>https://www.youtube.com/watch?v=Rub-JsjMhWY</link>
+  </video>
+  <video>
+    <title>C++ Tutorial 8</title>
+    <link>https://www.youtube.com/watch?v=5WZl3MMT0Eg</link>
+  </video>
+  <video>
+    <title>C++ Tutorial 9</title>
+    <link>https://www.youtube.com/watch?v=2ybLD6_2gKM</link>
+  </video>
+  <video>
+    <title>C++ Tutorial 10</title>
+    <link>https://www.youtube.com/watch?v=7Dh73z3icd8</link>
+  </video>
 </videos>
