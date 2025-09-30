@@ -40,4 +40,25 @@
     <title>C++ Tutorial 10</title>
     <link>https://www.youtube.com/watch?v=7Dh73z3icd8</link>
   </video>
+   <video>
+    <title>Learn JavaScript in 1 Hour</title>
+    <link>https://www.youtube.com/watch?v=W6NZfCO5SIk</link>
+  </video>
+  <video>
+    <title>Flutter Tutorial for Beginners</title>
+    <link>https://www.youtube.com/watch?v=1ukSR1GRtMU</link>
+  </video>
+  <video>
+    <title>C++ Crash Course</title>
+    <link>https://www.youtube.com/watch?v=8jLOx1hD3_o</link>
+  </video>
+  <video>
+    <title>Python Full Course for Beginners</title>
+    <link>https://www.youtube.com/watch?v=rfscVS0vtbw</link>
+  </video>
+  <video>
+    <title>HTML & CSS Crash Course</title>
+    <link>https://www.youtube.com/watch?v=G3e-cpL7ofc</link>
+  </video>
 </videos>
+
